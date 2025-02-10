@@ -1,6 +1,7 @@
 Criar uma lista de contatos do Casal na mesma linha exemplo
 
 Noiva,Telefone1,Noivo,Telefone2
+
 nome da noiva,11912345678,nome do noivo,11912345678
 
 Acionar o csv na mesma pasta do script python
